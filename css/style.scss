@@ -1,0 +1,57 @@
+/*
+* Sass (http://sass-lang.com/) file to generate theme.css
+*/
+
+/* Bootstrap Genesis Theme Variables
+------------------------------------------------------------ */
+@import "partials/variables";
+
+/* Bootstrap Base 3.3.2
+------------------------------------------------------------ */
+@import "partials/bootstrap";
+
+/* Archive/Blog Styling
+------------------------------------------------------------ */
+@import "partials/archive";
+
+/* Nav Styling
+------------------------------------------------------------ */
+@import "partials/nav";
+
+/* Widget Styling
+------------------------------------------------------------ */
+@import "partials/widget";
+
+
+/* WordPress Image Styling
+------------------------------------------------------------ */
+@import "partials/wordpress-image";
+
+
+/* WordPress Responsive Styles
+------------------------------------------------------------ */
+@import "partials/wordpress-responsive";
+
+
+/* Long nonbreaking path name support
+ * see http://wptest.io/demo/non-breaking-text/
+------------------------------------------------------------ */
+@import "partials/long-nonbreaking-path-name-support";
+
+
+/* Table Styling
+------------------------------------------------------------ */
+@import "partials/tables";
+
+
+/* Pagination modifications to accomodate WordPress
+------------------------------------------------------------ */
+@import "partials/pagination";
+
+/* Comment Styles
+------------------------------------------------------------ */
+@import "partials/comments";
+
+/* Skip to Main Content - Accessibility Link
+------------------------------------------------------------ */
+@import "partials/skip-to-main-content";
